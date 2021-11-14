@@ -1,0 +1,10 @@
+.home {
+  max-width: 1500px;
+  margin-left: auto;
+  margin_right: auto;
+}
+.home__image {
+  width: 900px;
+  height: 400px;
+  object-fit: fill;
+}
